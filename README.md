@@ -1,5 +1,5 @@
 # codePen_P3CH1JS
-Learning html &amp; css with openclassroom, an example of a page structure
+Learning Javascript with openclassroom.
 
 To view html page on the browser:
 
